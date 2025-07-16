@@ -1,3 +1,4 @@
+live: [https://ai-notes.streamlit.app]
 # AI Content Calendar Creator
 
 A Streamlit application that generates a 7-day content calendar using AI. The application uses the Mistral-7B-Instruct model through OpenRouter to create personalized content strategies.
